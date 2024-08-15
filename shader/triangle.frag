@@ -2,7 +2,7 @@
 
 out vec4 fragColor;
 
-in PerVertexData
+in VertexOut
 {
 	vec4 color;
 } vertexData;
